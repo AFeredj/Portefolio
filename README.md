@@ -1,6 +1,5 @@
 # Portefolio
-Les projets réalisés tout au long de la formation de BI
-
+Liste des projets réalisés 
 
 1. Visualiser des données avec Excel :
    
